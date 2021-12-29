@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DBMS - Tag - Blog - ReverseIp Tools</title>
+        <link>https://blog.reverseip-tools.com/tags/dbms/</link>
+        <description>DBMS - Tag - Blog - ReverseIp Tools</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 28 Dec 2021 17:20:38 -0500</lastBuildDate><atom:link href="https://blog.reverseip-tools.com/tags/dbms/" rel="self" type="application/rss+xml" /><item>
+    <title>Database management system and its Scope</title>
+    <link>https://blog.reverseip-tools.com/posts/database-and-the-scope/</link>
+    <pubDate>Tue, 28 Dec 2021 17:20:38 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://blog.reverseip-tools.com/posts/database-and-the-scope/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/database.jpg" referrerpolicy="no-referrer">
+            </div>DBMS (Database Management System) is a system or software specifically designed to manage a database and perform operations on data requested by many users. DBMS is an intermediary for users with the database, to be able to interact with the DBMS can use the database language that has been determined by the DBMS company. Database languages generally consist of various kinds of instructions that are formulated so that these instructions can be processed by the DBMS.]]></description>
+</item></channel>
+</rss>
