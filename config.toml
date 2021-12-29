@@ -1,4 +1,4 @@
-baseURL = "https://blog-reverseip-tools.com/"
+baseURL = "https://blog.reverseip-tools.com/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
